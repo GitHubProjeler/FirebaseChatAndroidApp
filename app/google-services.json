@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077085603802",
+    "firebase_url": "https://fir-chatandroidapp-d475a.firebaseio.com",
+    "project_id": "fir-chatandroidapp-d475a",
+    "storage_bucket": "fir-chatandroidapp-d475a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077085603802:android:277dc93451718643",
+        "android_client_info": {
+          "package_name": "com.mobilhanem.firebasechatandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077085603802-0q3bv9kj5jio2s0c9p33dgds59nbkhac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1IroBXXvzAbg90MnynOXMfsx9tFM1SzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
