@@ -11,7 +11,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_margin="10sp"
-        app:cardBackgroundColor="#b2ff59"
+        app:cardBackgroundColor="@android:color/holo_orange_dark"
         app:cardCornerRadius="20sp">
 
         <LinearLayout
@@ -21,19 +21,19 @@
             android:padding="10dp">
 
             <TextView
-                android:textColor="#eefffc"
                 android:id="@+id/txtUserRight"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:text="TextView" />
+                android:text="TextView"
+                android:textColor="#eefffc" />
 
             <TextView
-                android:textColor="#eefffc"
                 android:id="@+id/txtMessageRight"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="TextView"
+                android:textColor="#eefffc"
                 android:textSize="24sp" />
 
             <LinearLayout
@@ -43,11 +43,11 @@
                 android:orientation="horizontal">
 
                 <TextView
-                    android:textColor="#eefffc"
                     android:id="@+id/txtTimeRight"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="TextView"
+                    android:textColor="#eefffc" />
             </LinearLayout>
         </LinearLayout>
 
